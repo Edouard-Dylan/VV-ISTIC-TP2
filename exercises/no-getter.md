@@ -28,4 +28,4 @@ Include in this repository the code of your application. Remove all unnecessary 
 
 *Disclaimer* In a real project not all fields need to be accessed with a public getter.
 
-See [readme of Exercice4](../../code/Exercise4/README.md) for more details.
+See [readme of Exercice4](../code/Exercise4/README.md) for more details.
